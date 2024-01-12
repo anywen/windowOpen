@@ -27,7 +27,7 @@ blueprint:
       selector:
         number:
           min: 0.0
-          max: 300.0
+          max: 600.0
           unit_of_measurement: secondes
           mode: slider
           step: 1.0
